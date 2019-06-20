@@ -1,4 +1,6 @@
 # Cluster API Provider Docker
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcluster-api-provider-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcluster-api-provider-docker?ref=badge_shield)
+
 
 A temporary home for CAPD
 
@@ -59,3 +61,7 @@ The kubeconfig is on the management cluster in secrets. Grab it and write it to 
  
 `kubectl get po --all-namespaces --kubeconfig ~/.kube/kind-config-my-cluster`
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcluster-api-provider-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcluster-api-provider-docker?ref=badge_large)
